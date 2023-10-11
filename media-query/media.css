@@ -1,0 +1,138 @@
+@media screen and (max-width:970px) and (min-width:769px){
+    .drop-menu{
+        display: block;
+    }
+    .nav-menu{
+        display: none;
+    }
+    .home {
+        height: 100%;
+    }
+    .home .section{
+        width: 90%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .home-des{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .home .home-head{
+        text-align: center;
+    }
+    .home-des .home-head h1{
+        font-size: 60px;
+    }
+    .home-des p{
+        text-align: center;
+        font-size: 14px;
+    }
+    .home-img{
+        margin: 50px 0px;
+        width: 100%;
+        order: -1;
+    }
+    .buttons{
+        justify-content: center;
+    }
+    .button-left button{
+        border-radius: 30px;
+    }
+    .chef-1{
+        width: 49%;
+    }
+    .form.special{
+        width: 100%;
+    }
+    .footer .small{
+        width: 49%;
+    }
+    .footer .big{
+        margin-top: 20px;
+        width: 100%;
+        order: 1;
+    }
+}
+@media screen and (max-width:768px){
+    .drop-menu{
+        display: block;
+    }
+    .nav-menu{
+        display: none;
+    }
+    .home {
+        height: 100%;
+    }
+    .home .section{
+        width: 90%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .home-des{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .home .home-head{
+        text-align: center;
+    }
+    .home-des .home-head h1{
+        font-size: 60px;
+    }
+    .home-des p{
+        text-align: center;
+        font-size: 14px;
+    }
+    .home-img{
+        margin: 50px 0px;
+        width: 80%;
+        order: -1;
+    }
+    .buttons{
+        justify-content: center;
+    }
+    .button-left button{
+        border-radius: 30px;
+    }
+    .chef-1{
+        width:  80%;
+        margin: 20px 0px;
+    }
+    .chef-section{
+        justify-content: center;
+    }
+    .gallery-img .column1{
+        width: 75%;
+    }
+    .contact .section{
+        width: 70%;
+    }
+    .contact-info{
+        justify-content: center;
+    }
+    .contact-info .sub-contact{
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .footer .section{
+        width: 70%;
+    }
+    .form.special{
+        width: 100%;
+    }
+    .footer .small{
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .footer-right.small{
+        order: 2;
+    }
+    .footer .big{
+        margin-top: 20px;
+        width: 100%;
+        order: 1;
+    }
+}
